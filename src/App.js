@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save MATT DRUDGE to reload DRUDGE REPORT!
+          THIS CODE IS UPDATED!
         </p>
         <a
           className="App-link"
