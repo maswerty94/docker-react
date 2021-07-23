@@ -25,4 +25,4 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: ShiftLeftSecurity/scan-action@master
         with:
-          type: "credscan,dockerfile,yaml,depscan"
+          type: "credscan,dockerfile,yaml,nodejs,depscan"
